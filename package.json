@@ -1,0 +1,16 @@
+{
+  "name": "functionsignatures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "writeAbiToCsv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.3.1",
+    "event-stream": "^4.0.1",
+    "web3": "^1.8.0"
+  }
+}
